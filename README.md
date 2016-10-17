@@ -16,4 +16,6 @@ Level 4: Optimizing (the researcher are continually improving their data managem
 The strength of the DM Vitals tool is in generating tasks customized to each researcher. These tasks can then be easily 
 grouped into phases, creating a data management implementation plan for each researcher based on their personal data interview and subsequent information gathering. The DM Vitals assessment tool differs from the Digital Curation Center’s (DCC) CARDIO in that its focus is not on consensus and collaboration by individuals responsible for the research data (PI, IT, Data manager, etc.). 
 
-Excerpt from abstract of IDCC11 poster (Lake and Borda): http://www.dcc.ac.uk/sites/default/files/documents/IDCC11/photos/posters/UVA-DMVitals_Poster.pdf
+Above: Excerpt from abstract of IDCC11 poster (Lake and Borda): http://www.dcc.ac.uk/sites/default/files/documents/IDCC11/photos/posters/UVA-DMVitals_Poster.pdf
+
+PDF of the Chapter describing DMVitals is included in this repo as well as available online at: [Data Management Assessment and Planning Tool](http://libraprod.lib.virginia.edu/catalog/libra-oa:11811)
