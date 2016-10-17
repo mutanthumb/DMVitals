@@ -19,3 +19,5 @@ grouped into phases, creating a data management implementation plan for each res
 Above: Excerpt from abstract of IDCC11 poster (Lake and Borda): http://www.dcc.ac.uk/sites/default/files/documents/IDCC11/photos/posters/UVA-DMVitals_Poster.pdf
 
 PDF of the Chapter describing DMVitals is included in this repo as well as available online at: [Data Management Assessment and Planning Tool](http://libraprod.lib.virginia.edu/catalog/libra-oa:11811)
+
+Most recent version of the tool, the one the book chapter refers in DM_Vitals_V2.1.xlsm
